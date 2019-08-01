@@ -1,0 +1,39 @@
+.kotak{
+    
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: -1;
+    
+    
+}
+
+
+.kotak2{
+ 
+    width: 700px;
+    height: 20px;
+    float: right;
+    font-size: 85%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: black;
+    
+    
+}
+
+.kotak2{
+    
+    position: relative; 
+    /* top: 10px;
+    right: 10px;  */
+    
+}
+
+.kotak2{
+  background-color: white;
+  top: 10px;
+  right: 10px; 
+  width: 700px;
+  height: 20px;
+  z-index: 10;
+}
